@@ -1,93 +1,44 @@
-# urna
-Números dos candidatos
--DEPUTADO ESTADUAL:
-candidatos:
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+</head>
+<body>
+<div>
 
- numero: '12345',
- nome: 'AATROX',
- partido: 'RUNETERRA'
---------------------------------------
- numero: '12346',
- nome: 'BLITZCRANK',
- partido: 'ZAUN',
---------------------------------------
- numero: '12347',
- nome: 'CASSIOPEIA',
- partido: 'NOXUS',
- --------------------------------------
- --------------------------------------
- -DEPUTADO FEDERAIL:
- candidatos:
+  <div><img src="images/12.jpg" alt="" width="210" height="280" right="0"></div>
+  <div><img src="images/12_2.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/13.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/13_2.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/14.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/14_2.jpg" alt="" width="210" height="280"  ></div>
+  <div><img src="images/20.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/20_2.jpg" alt="" width="210" height="280"  ></div>
+  <div><img src="images/21.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/21_2.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/22.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/22_2.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/123.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/123_2.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/123_3.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/124.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/124_2.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/124_3.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/125.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/125_2.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/125_3.jpg" alt="" wwidth="210" height="280" ></div>
+  <div><img src="images/1234.jpg" alt="" wiwidth="210" height="280" ></div>
+  <div><img src="images/1235.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/1236.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/12345.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/12346.jpg" alt="" width="210" height="280" ></div>
+  <div><img src="images/12347.jpg" alt="" width="210" height="280" ></div>
  
- numero: '1234',
- nome: 'DIANA',
- partido: 'TARGON',
- --------------------------------------
- numero: '1235',
- nome: 'ELISE',
- partido: 'ILHAS DAS SOMRAS',
---------------------------------------
- numero: '1236',
- nome: 'FIORA',
- partido: 'DEMACIA',
- --------------------------------------
- --------------------------------------
- -SENADOR:
- candidatos:
- 
- numero: '123',
- nome: 'GANGPLANK',
- partido: 'ÁGUAS DE SENTINA',
- suplente1: 'GRAVES',
- suplente2: 'ILLAOI',
--------------------------------------- 
-numero: '124',
- nome: 'HEIMERDINGER',
- partido: 'PILTOVER',
- suplente1: 'JAYCE',
- suplente2: 'CAITLYN',
---------------------------------------                
-numero: '125',
- nome: 'IVERN',
- partido: 'IONIA',
- suplente1: 'IRELIA',
- suplente2: 'KARMA',
---------------------------------------
---------------------------------------
--GOVERNADOR
-candidatos:
+</div>
 
-numero: '12',
- nome: 'JARVAN IV',
- partido: 'DEMACIA',
- vicegovernador: 'JAX',
---------------------------------------                
-numero: '13',
- nome: "KAI'SA",
- partido: 'O VAZIO',
- vicegovernador: 'KASSADIN',
---------------------------------------                
-numero: '14',
- nome: 'KATARINA',
- partido: 'NOXUS',
- vicegovernador: 'LEBLANC',
---------------------------------------
---------------------------------------
--PRESIDENTE
-candidatos:
+</body>
 
-numero: '20',
- nome: 'LEONA',
- partido: 'TARGON',
- vice: 'SHEN',
---------------------------------------                
-numero: '21',
- nome: 'BRAND',
- partido: 'RUNETERRA',
- vice: 'SWAIN',
---------------------------------------                
-numero: '22',
- nome: 'SORAKA',
- partido: 'TARGON',
- vice: 'THRESH',
---------------------------------------
+</html>
